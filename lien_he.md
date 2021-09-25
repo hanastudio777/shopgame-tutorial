@@ -1,5 +1,5 @@
-# Chào mừng các bạn đến với Tan Tan Shop - SHOPACGAME.COM
-# Shop dịch vụ game online uy tín hàng đầu Việt Nam.
+## Chào mừng các bạn đến với Tan Tan Shop - SHOPACGAME.COM
+#### Shop dịch vụ game online uy tín hàng đầu Việt Nam.
 
 ![N|Solid](./images/ic_garena.jpg)
 
