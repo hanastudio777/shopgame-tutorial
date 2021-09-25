@@ -20,12 +20,12 @@
 | Họ Tên | Thái Văn Tân |
 | Năm sinh | 199x|
 | Địa chỉ | VN: Hà Tĩnh,    JP: Tokyo|
-| Facebook | (https://www.facebook.com/tanbkdn)[https://www.facebook.com/tanbkdn]|
+| Facebook | [https://www.facebook.com/tanbkdn](https://www.facebook.com/tanbkdn)|
 | SDT/Zalo | +84 984 875 763 (VN) - Số này không nghe gọi được, nhận SMS OK|
 | SDT | +81 908 302 9447 (Japan) - Nghe gọi OK|
 | Công việc chính| Phát triển phần mềm.|
 | Công việc phụ| Buôn bán, phát triển dịch vụ internet online:  Mua bán thẻ cào, đổi thẻ, tài khoản game,  Dịch vụ FB , Quảng cáo ADS FB, Google, Lập trình web, ứng dụng .....|
-| Công ty đang làm |  (Rikai Technology)[https://www.facebook.com/rikai.technology]|
+| Công ty đang làm |  [Rikai Technology](https://www.facebook.com/rikai.technology)|
 | Sở thích, mục tiêu| Chơi game, thể thao và mong muốn xây dựng cộng đồng game thủ trong sạch đúng nghĩa|
 
 #### Thông tin các kênh liên lạc chính thức
@@ -33,9 +33,9 @@
 | ------ | ------ |
 | Momo/Zalo | 0984 875 763 (Chủ TK: Thái Văn Tân |
 | MB Bank | 02928 999 3838 (Chủ TK: Thái Văn Tân)|
-| Facebook cá nhân| (https://www.facebook.com/tanbkdn)[https://www.facebook.com/tanbkdn] (Mình ít làm việc trên FB này, đây là fb dành cho bạn bè)|
-| Blog cá nhân| (Blog Tan Tan Shop - Shopacgame.com)[https://www.facebook.com/tanbkdn] (Toàn bộ mọi giao dịch sẽ làm việc trên này, các bạn follow ở đây nhé)|
-| Fanpage hỗ trợ web: | (Ho Tro SHOPACGAME.COM)[https://www.facebook.com/hotro.shopacgame] |
+| Facebook cá nhân| [https://www.facebook.com/tanbkdn](https://www.facebook.com/tanbkdn) (Mình ít làm việc trên FB này, đây là fb dành cho bạn bè)|
+| Blog cá nhân| [Blog Tan Tan Shop - Shopacgame.com](https://www.facebook.com/Tan-Tan-Shop-ShopacgameCom-107527701687477/) (Toàn bộ mọi giao dịch sẽ làm việc trên này, các bạn follow ở đây nhé)|
+| Fanpage hỗ trợ web: | [Ho Tro SHOPACGAME.COM](https://www.facebook.com/hotro.shopacgame) |
 | Email | htt.devvn@gmail.com] |
 
 #### Chúc các bạn chơi game vui vẻ, nhớ like share fanpage để cập nhật những thông tin mới nhất nhé.
