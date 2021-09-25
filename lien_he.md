@@ -36,7 +36,7 @@
 | Facebook cá nhân| [https://www.facebook.com/tanbkdn](https://www.facebook.com/tanbkdn) (Mình ít làm việc trên FB này, đây là fb dành cho bạn bè)|
 | Blog cá nhân| [Blog Tan Tan Shop - Shopacgame.com](https://www.facebook.com/Tan-Tan-Shop-ShopacgameCom-107527701687477/) (Toàn bộ mọi giao dịch sẽ làm việc trên này, các bạn follow ở đây nhé)|
 | Fanpage hỗ trợ web: | [Ho Tro SHOPACGAME.COM](https://www.facebook.com/hotro.shopacgame) |
-| Email | htt.devvn@gmail.com] |
+| Email | htt.devvn@gmail.com |
 
 #### Chúc các bạn chơi game vui vẻ, nhớ like share fanpage để cập nhật những thông tin mới nhất nhé.
 ### Mọi thắc mắc, hỗ trợ xin vui lòng liên hệ theo thông tin ở trên.
